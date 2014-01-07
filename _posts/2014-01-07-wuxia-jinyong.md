@@ -2,12 +2,12 @@
 layout: post
 title: "武侠-金庸"
 description: ""
-category: 
-tags: []
+category: 杂记
+tags: [读书笔记]
 ---
 {% include JB/setup %}
 
-######《金庸传》读毕，杂记！
+#####《金庸传》读毕，杂记！
 
 
 1955年2月8日，查良镛开始以笔名金庸在《新晚报》上开始连载《书剑恩仇录》，开启了金庸的武侠时代。
